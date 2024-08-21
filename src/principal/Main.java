@@ -7,4 +7,6 @@ public class Main {
      System.out.println(FlorSamambaia.tentativaDesenhar(5, 0, 0, 2, 1, 1));
 	 System.out.println(FlorSamambaia.tentativaDesenhar(3, 0, 0, 2, 4, 4)); 
     }
+	
+	/*Aqui eu fiz dois testes com valores de entrada para ver se a função funciona conforme esperado.*/
 }
